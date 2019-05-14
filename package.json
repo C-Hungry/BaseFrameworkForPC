@@ -1,0 +1,19 @@
+{
+  "name": "baseframeworkforpc",
+  "version": "1.0.0",
+  "description": "一个基于vue2+iview3的PC端管理平台基础框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-Hungry/BaseFrameworkForPC.git"
+  },
+  "author": "cj_songqing@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C-Hungry/BaseFrameworkForPC/issues"
+  },
+  "homepage": "https://github.com/C-Hungry/BaseFrameworkForPC#readme"
+}
